@@ -1,1 +1,0 @@
-dotnet Takachi.dll %*
