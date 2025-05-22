@@ -1,0 +1,10 @@
+# Visual Studio / .NET
+bin/
+obj/
+*.suo
+*.user
+.vs/
+*.csproj.user
+# NuGet Packages
+packages/
+*.nupkg
