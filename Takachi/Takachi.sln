@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Takachi", "Takachi\Takachi.csproj", "{A283D85E-B915-4A50-A03A-5DDAFC5C4E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A283D85E-B915-4A50-A03A-5DDAFC5C4E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A283D85E-B915-4A50-A03A-5DDAFC5C4E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A283D85E-B915-4A50-A03A-5DDAFC5C4E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A283D85E-B915-4A50-A03A-5DDAFC5C4E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F501E1-AB6E-464F-BC94-9B1CCE8AED1F}
+	EndGlobalSection
+EndGlobal

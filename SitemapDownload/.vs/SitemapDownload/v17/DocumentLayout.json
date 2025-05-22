@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leopa\\OneDrive\\Documents\\Visual Studio 2023\\SitemapDownload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D59526C-330A-40C7-87CC-E2B7CC86E25B}|SitemapDownload\\SitemapDownload.csproj|c:\\users\\leopa\\onedrive\\documents\\visual studio 2023\\sitemapdownload\\sitemapdownload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D59526C-330A-40C7-87CC-E2B7CC86E25B}|SitemapDownload\\SitemapDownload.csproj|solutionrelative:sitemapdownload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D59526C-330A-40C7-87CC-E2B7CC86E25B}|SitemapDownload\\SitemapDownload.csproj|c:\\users\\leopa\\onedrive\\documents\\visual studio 2023\\sitemapdownload\\sitemapdownload\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D59526C-330A-40C7-87CC-E2B7CC86E25B}|SitemapDownload\\SitemapDownload.csproj|solutionrelative:sitemapdownload\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D59526C-330A-40C7-87CC-E2B7CC86E25B}|SitemapDownload\\SitemapDownload.csproj|c:\\users\\leopa\\onedrive\\documents\\visual studio 2023\\sitemapdownload\\sitemapdownload\\settings.job||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D59526C-330A-40C7-87CC-E2B7CC86E25B}|SitemapDownload\\SitemapDownload.csproj|solutionrelative:sitemapdownload\\settings.job||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D59526C-330A-40C7-87CC-E2B7CC86E25B}|SitemapDownload\\SitemapDownload.csproj|c:\\users\\leopa\\onedrive\\documents\\visual studio 2023\\sitemapdownload\\sitemapdownload\\sitemapdownload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D59526C-330A-40C7-87CC-E2B7CC86E25B}|SitemapDownload\\SitemapDownload.csproj|solutionrelative:sitemapdownload\\sitemapdownload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.job",
+              "DocumentMoniker": "C:\\Users\\leopa\\OneDrive\\Documents\\Visual Studio 2023\\SitemapDownload\\SitemapDownload\\Settings.job",
+              "RelativeDocumentMoniker": "SitemapDownload\\Settings.job",
+              "ToolTip": "C:\\Users\\leopa\\OneDrive\\Documents\\Visual Studio 2023\\SitemapDownload\\SitemapDownload\\Settings.job",
+              "RelativeToolTip": "SitemapDownload\\Settings.job",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T05:20:39.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SitemapDownload.csproj",
+              "DocumentMoniker": "C:\\Users\\leopa\\OneDrive\\Documents\\Visual Studio 2023\\SitemapDownload\\SitemapDownload\\SitemapDownload.csproj",
+              "RelativeDocumentMoniker": "SitemapDownload\\SitemapDownload.csproj",
+              "ToolTip": "C:\\Users\\leopa\\OneDrive\\Documents\\Visual Studio 2023\\SitemapDownload\\SitemapDownload\\SitemapDownload.csproj",
+              "RelativeToolTip": "SitemapDownload\\SitemapDownload.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T05:20:39.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APP.config",
+              "DocumentMoniker": "C:\\Users\\leopa\\OneDrive\\Documents\\Visual Studio 2023\\SitemapDownload\\SitemapDownload\\APP.config",
+              "RelativeDocumentMoniker": "SitemapDownload\\APP.config",
+              "ToolTip": "C:\\Users\\leopa\\OneDrive\\Documents\\Visual Studio 2023\\SitemapDownload\\SitemapDownload\\APP.config",
+              "RelativeToolTip": "SitemapDownload\\APP.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwDsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-24T05:20:39.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leopa\\OneDrive\\Documents\\Visual Studio 2023\\SitemapDownload\\SitemapDownload\\Program.cs",
+              "RelativeDocumentMoniker": "SitemapDownload\\Program.cs",
+              "ToolTip": "C:\\Users\\leopa\\OneDrive\\Documents\\Visual Studio 2023\\SitemapDownload\\SitemapDownload\\Program.cs",
+              "RelativeToolTip": "SitemapDownload\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCAAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:20:39.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

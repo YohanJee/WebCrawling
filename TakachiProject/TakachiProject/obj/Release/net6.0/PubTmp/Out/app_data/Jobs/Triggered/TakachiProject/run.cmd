@@ -1,0 +1,1 @@
+dotnet TakachiProject.dll %*

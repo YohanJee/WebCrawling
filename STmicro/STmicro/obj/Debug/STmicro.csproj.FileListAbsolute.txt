@@ -1,0 +1,149 @@
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/STmicro.exe.config
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/STmicro.exe
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/STmicro.pdb
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/HtmlAgilityPack.dll
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/Microsoft.Azure.KeyVault.Core.dll
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/Microsoft.WindowsAzure.Configuration.dll
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/Newtonsoft.Json.dll
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/System.Configuration.ConfigurationManager.dll
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/System.Data.SqlClient.dll
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/System.Security.AccessControl.dll
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/System.Security.Permissions.dll
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/System.Security.Principal.Windows.dll
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/HtmlAgilityPack.pdb
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/HtmlAgilityPack.xml
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/System.Data.SqlClient.xml
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/System.Security.Principal.Windows.xml
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/System.Security.AccessControl.xml
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/System.Security.Permissions.xml
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/System.Configuration.ConfigurationManager.xml
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/Microsoft.Azure.KeyVault.Core.xml
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/Newtonsoft.Json.xml
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/Microsoft.WindowsAzure.Storage.pdb
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/Microsoft.WindowsAzure.Storage.xml
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/bin/Debug/Microsoft.WindowsAzure.Configuration.xml
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/obj/Debug/STmicro.csproj.CoreCompileInputs.cache
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/obj/Debug/STmicro.csproj.CopyComplete
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/obj/Debug/STmicro.exe
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/obj/Debug/STmicro.pdb
+/Users/Yohan/Desktop/알바 코딩/STmicro/STmicro/obj/Debug/STmicro.csprojAssemblyReference.cache
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\STmicro.exe.config
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\STmicro.exe
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\STmicro.pdb
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.Permissions.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.Permissions.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.csproj.CopyComplete
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.exe
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.pdb
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Core.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Storage.Blobs.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Storage.Common.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Buffers.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Memory.Data.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Memory.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Text.Json.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.ValueTuple.dll
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Core.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Storage.Blobs.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Storage.Common.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Buffers.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Memory.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Memory.Data.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Text.Json.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.ValueTuple.xml
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Settings.job
+C:\Users\Paul\OneDrive\레오DB\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.csproj.AssemblyReference.cache
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Settings.job
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\STmicro.exe.config
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\STmicro.exe
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\STmicro.pdb
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Core.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Storage.Blobs.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Storage.Common.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\HtmlAgilityPack.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Buffers.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Data.SqlClient.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Memory.Data.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Memory.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.AccessControl.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.Permissions.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Text.Json.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.ValueTuple.dll
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Core.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Storage.Blobs.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Azure.Storage.Common.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\HtmlAgilityPack.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Buffers.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Memory.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Memory.Data.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Text.Json.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.ValueTuple.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Security.Permissions.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.csproj.AssemblyReference.cache
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.csproj.SuggestedBindingRedirects.cache
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.csproj.CoreCompileInputs.cache
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.csproj.CopyComplete
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.exe
+C:\Users\jee41\OneDrive\ManufacturerDataDownload\STmicro\STmicro\obj\Debug\STmicro.pdb

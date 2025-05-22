@@ -1,0 +1,8 @@
+C:\Users\leopa\OneDrive\Documents\Visual Studio 2023\DBconnectionTest\DBconnectionTest\bin\Debug\DBconnectionTest.exe.config
+C:\Users\leopa\OneDrive\Documents\Visual Studio 2023\DBconnectionTest\DBconnectionTest\bin\Debug\DBconnectionTest.exe
+C:\Users\leopa\OneDrive\Documents\Visual Studio 2023\DBconnectionTest\DBconnectionTest\bin\Debug\DBconnectionTest.pdb
+C:\Users\leopa\OneDrive\Documents\Visual Studio 2023\DBconnectionTest\DBconnectionTest\obj\Debug\DBconnectionTest.csproj.AssemblyReference.cache
+C:\Users\leopa\OneDrive\Documents\Visual Studio 2023\DBconnectionTest\DBconnectionTest\obj\Debug\DBconnectionTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\leopa\OneDrive\Documents\Visual Studio 2023\DBconnectionTest\DBconnectionTest\obj\Debug\DBconnectionTest.csproj.CoreCompileInputs.cache
+C:\Users\leopa\OneDrive\Documents\Visual Studio 2023\DBconnectionTest\DBconnectionTest\obj\Debug\DBconnectionTest.exe
+C:\Users\leopa\OneDrive\Documents\Visual Studio 2023\DBconnectionTest\DBconnectionTest\obj\Debug\DBconnectionTest.pdb
